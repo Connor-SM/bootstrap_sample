@@ -25,6 +25,17 @@ figcaption {
   border-color: #343a40!important;
 }
 
+.card {
+  margin: 25px;
+  padding: 25px;
+  box-shadow: 0px 0px 5px 0px grey;
+}
+
+.card-subtitle {
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
 footer {
   background-color: #343a40!important;
   color: rgba(255,255,255,.5);
